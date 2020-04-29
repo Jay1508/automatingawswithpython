@@ -12,3 +12,4 @@ Webotron has the current features:
 - Add a new script to list the contents of s3 bucket
 - List contents of list_buckets
 - Create and set up bucket
+- Sync directory tree to bucket
